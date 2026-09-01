@@ -4,7 +4,7 @@ title: "khuli_portfolio"
 
 Welcome to my portfolio. I'm a Medical Doctor and Data Science student. My interests are in health informatics and clinical data.
 
-Built by Dr Khuli — September 2026.
+Built by Dr KK — September 2026.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
