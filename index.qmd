@@ -1,0 +1,11 @@
+---
+title: "khuli_portfolio"
+---
+
+Welcome to my portfolio. I'm a Medical Doctor and Data Science student.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```
