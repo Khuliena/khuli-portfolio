@@ -2,7 +2,7 @@
 title: "khuli_portfolio"
 ---
 
-Welcome to my portfolio. I'm a Medical Doctor and Data Science student.
+Welcome to my portfolio. I'm a Medical Doctor and Data Science student. My interests are in health informatics and clinical data.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
